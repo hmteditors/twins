@@ -14,7 +14,7 @@ Work at Holy Cross simultaneously editing the Venetus A and Upsilon 1.1.
 
 Images:  `urn:cite2:hmt:vbimg.2017a:`
 
-Surfaces: `urn:cite2:hmt:msB.2017a:16r`
+Surfaces: `urn:cite2:hmt:msB.2017a:`
 
 Texts: *Iliad* text: `urn:cts:greekLit:tlg0012.tlg001.msB:`
 
