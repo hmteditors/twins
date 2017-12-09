@@ -12,7 +12,7 @@ Work at Holy Cross simultaneously editing the Venetus A and Upsilon 1.1.
 
 **URNs**
 
-Images:  `urn:cite2:hmt:vbimg.2017a:`
+Images:  `urn:cite2:hmt:vbbifolio.v1:`
 
 Surfaces: `urn:cite2:hmt:msB.2017a:`
 
